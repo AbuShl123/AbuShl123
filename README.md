@@ -1,6 +1,5 @@
-### Hi there 👋
 
-# ![](https://github.com/AbuShl123/AbuShl123/blob/main/giphy.gif)
+# ![](https://github.com/AbuShl123/AbuShl123/blob/main/anotherGif.gif)
 
 <!--
 **AbuShl123/AbuShl123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
