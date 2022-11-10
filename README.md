@@ -1,5 +1,5 @@
 
-# ![](https://github.com/AbuShl123/AbuShl123/blob/main/anotherRainGif.gif) ![](https://github.com/AbuShl123/AbuShl123/blob/main/eatSleepGif.gif)
+# ![](https://github.com/AbuShl123/AbuShl123/blob/main/anotherRainGif.gif) 
 
 <!--
 **AbuShl123/AbuShl123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
