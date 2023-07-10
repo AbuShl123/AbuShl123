@@ -1,6 +1,5 @@
-<div style="display:flex; justify-content: space-around;"> 
+<div> 
   <img src="https://github.com/AbuShl123/AbuShl123/blob/main/nagato-typing.gif"> 
-  <img src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif" width=400px>
 </div>
 
 <!--
