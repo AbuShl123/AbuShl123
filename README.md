@@ -1,6 +1,8 @@
-<center> 
+<div style="display:flex; justify-content: space-around;"> 
   <img src="https://github.com/AbuShl123/AbuShl123/blob/main/nagato-typing.gif"> 
-</center>
+  <img src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif" width=400px>
+</div>
+
 <!--
 **AbuShl123/AbuShl123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
